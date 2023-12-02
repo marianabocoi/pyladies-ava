@@ -1,4 +1,8 @@
-# essentials
+# PyLadies Ava
+
+This project by [PyLadies.se](pyladies.se) is meant to help people feel included and seen in the [PyLadies](pyladies.com) comunity. It is not complete or perfect by far, contributions are welcome!
+
+Please be mindful of the [PyLadies assets](https://github.com/pyladies/pyladies-assets) usage guidelines when using a generated image.
 
 ## Project setup
 
