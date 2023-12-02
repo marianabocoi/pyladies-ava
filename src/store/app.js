@@ -20,7 +20,7 @@ export const useAppStore = defineStore("app", {
       "#efaf62",
       "#e4e1ce",
     ],
-    hairStyles: [1, 2, 3, 4],
+    hairStyles: [1, 2, 3, 4, 5, 6],
     eyeColors: [
       "#1c1312",
       "#3b2113",
